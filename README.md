@@ -16,6 +16,19 @@ It solves the common problem of clients getting confused by too many options or 
 - **Login Redirect:** (Optional) Set a custom URL to redirect specific users to immediately after they log in.
 - **Admin Bar Cleanup:** Removes unnecessary nodes from the top Admin Bar for a cleaner experience.
 
+## 📸 Screenshots
+
+### Modern User Interface
+
+![User Menu Control Interface](./image.png)
+
+The plugin features a clean, modern interface with:
+
+- **Cascading Dropdowns:** Select role first, then choose specific user
+- **Toggle Switches:** Easy ON/OFF controls for each menu item
+- **Card-Based Layout:** Clean, organized display of user settings
+- **Responsive Grid:** Menu items displayed in a professional grid layout
+
 ## 🛠️ Installation
 
 1.  Download the plugin folder/zip.
