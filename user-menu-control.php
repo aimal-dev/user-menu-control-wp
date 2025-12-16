@@ -3,7 +3,7 @@
  * Plugin Name: User Menu Control
  * Description: Admin selects which admin menus each subscriber/editor can see. If nothing allowed, user only sees Dashboard + Profile. Works with any plugin dynamically.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Aimal
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
